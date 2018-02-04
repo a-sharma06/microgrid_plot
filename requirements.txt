@@ -25,7 +25,7 @@ click-plugins==1.0.3
 cligj==0.4.0
 cloudpickle==0.4.0
 colorama==0.3.9
-colorcet==1.0.0
+colorcet==0.9.1
 comtypes==1.1.2
 conda==4.4.8
 conda-build==3.0.27
