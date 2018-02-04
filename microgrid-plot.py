@@ -50,14 +50,14 @@ hv.extension('bokeh')
 # In[5]:
 
 
-T = nx.read_gml('T.gml')
+T = nx.read_gml('https://github.com/a-sharma06/microgrid_plot/blob/master/data/T.gml')
 
 
 # In[12]:
 
 
 #adrs = pd.read_csv('adrs.csv')
-location2 = pd.read_csv('location2.csv')
+location2 = pd.read_csv('https://github.com/a-sharma06/microgrid_plot/blob/master/data/location2.csv')
 
 
 # In[6]:
